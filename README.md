@@ -16,7 +16,7 @@ Interactive dashboard to analyze university admission, enrollment, retention and
 | `app.py` | Streamlit dashboard |
 | `requirements.txt` | Required libraries |
 | `university_student_data.csv` | Dataset |
-| `actividad1_dashboard.py` | Exploration and visualizations |
+| `actividad1_dashboard.ipyn` | Exploration and visualizations |
 
 ## How to run locally
 ```bash
