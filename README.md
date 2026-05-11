@@ -25,3 +25,4 @@ streamlit run app.py
 ```
 
 ## Deployed dashboard
+https://dashboard-universitario-crbhytwwq55uqwmsgkfq3s.streamlit.app/
